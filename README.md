@@ -39,7 +39,7 @@ The goal is to support **data-driven decisions** for operational efficiency and 
   - Day Trips: $1.098M (76K bookings)
   - Night Trips: $455K (28K bookings)
 
-### 💳 3. Payment Method Insights
+### 3. Payment Method Insights
 - Uber Pay: $1.099M (66.3%)  
 - Cash: $443.4K (27.5%)  
 - Others (Amazon Pay, Google Pay): <5%
